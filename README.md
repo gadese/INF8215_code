@@ -26,3 +26,6 @@ It contains three module, one for each of the practical work assignments we had.
 	..5. L2 regularization
 	..6. Data pre-processing using Scikit-Learn and Pandas and the pipeline architecture
 	..7. We also compared multiple models in order to see their respective performance on the dataset (Softmax classifier vs Decision tree vs GaussianNB)
+	
+	
+This lab was completed with @beaupreda and Rémi Croteau
