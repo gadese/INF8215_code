@@ -1,0 +1,63 @@
+artist
+    author
+        british author
+            J. K. Rowling
+        french author
+            Victor Hugo
+    singer
+        female singer
+            Lady Gaga
+        male singer
+            Michael Jackson
+    movies
+        acting
+            actress
+                Jennifer Lawrence
+            actor
+                Denzel Washington
+        movie writer
+            Quentin Tarantino
+    video games        
+        Hideo Kojima
+    drawer
+        Banksy
+
+politician
+    preXX
+        america
+            Dwight D. Eisenhower
+        ussr
+            Joseph Staline
+        egypt
+            Cleopatra
+    postXX
+        america
+            Richard Nixon
+        ussr
+            Mikhail Gorbachev
+    
+religious figure
+    pope
+        Pope Francis
+    in bible
+        new testament
+            Jesus
+        old testament
+            Moses
+
+fictitious character
+    video game character
+        male video game character
+            Mario
+        female video game character
+            Lara Croft
+    movie character
+        James Bond
+    
+racer
+    brazilian racer
+        Ayrton Senna
+    spanish racer
+        Fernando Alonso
+    
+

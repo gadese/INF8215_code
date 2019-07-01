@@ -1,0 +1,64 @@
+kitchen
+	appliances
+		cook food
+			cake
+				oven
+			toast food
+				toaster
+		used to heat liquid
+			range (cuisiniere)
+			coffee machine
+	kitchenware
+		use for eating
+			pick food
+				fork
+			recipient for food
+				plate
+		cook
+			pan (casserole)
+
+bedroom
+	bed
+
+bathroom
+	shampoo
+
+personnal
+	house
+		key
+	keep stuff in it
+		fit in pocket
+			wallet
+		big bag
+			backpack
+
+office
+	write
+		paper
+	furniture
+		table
+
+music intruments
+	keys
+		piano
+
+decoration
+	emit light
+		lamp
+	plant
+		cactus
+
+cleaning
+	dust
+		air pump
+			vacuum
+		brush
+			broom
+	appliance cleaner
+		dishwashing detergent
+
+electronics
+	internet
+		computer
+	call people
+		phone
