@@ -28,4 +28,4 @@ It contains three module, one for each of the practical work assignments we had.
 	..7. We also compared multiple models in order to see their respective performance on the dataset (Softmax classifier vs Decision tree vs GaussianNB)
 	
 	
-This lab was completed with @beaupreda and Rémi Croteau
+This lab was completed with @beaupreda and @remicroteau
